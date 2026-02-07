@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-02-07 at 5 30 04 PM](https://github.com/user-attachments/assets/84cc0147-97a9-4151-bcb4-55e1134f8e4b)
+
 ## Output
+![WhatsApp Image 2026-02-07 at 5 30 34 PM](https://github.com/user-attachments/assets/b332165e-8eab-41e2-a8e5-e3b3b9a5b526)
+
 ## Result
+Thus the half wave rectifier controlled by a thyristor is stimulated successfully using matlab
